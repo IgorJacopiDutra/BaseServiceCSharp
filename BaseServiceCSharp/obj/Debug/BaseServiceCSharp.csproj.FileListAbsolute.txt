@@ -1,0 +1,9 @@
+C:\geiewin\SubProjetos\Curso\Git\BaseServiceCSharp\BaseServiceCSharp\BaseServiceCSharp\obj\Debug\BaseServiceCSharp.csproj.AssemblyReference.cache
+C:\geiewin\SubProjetos\Curso\Git\BaseServiceCSharp\BaseServiceCSharp\BaseServiceCSharp\obj\Debug\BaseServiceCSharp.ProjectInstaller.resources
+C:\geiewin\SubProjetos\Curso\Git\BaseServiceCSharp\BaseServiceCSharp\BaseServiceCSharp\obj\Debug\BaseServiceCSharp.csproj.GenerateResource.cache
+C:\geiewin\SubProjetos\Curso\Git\BaseServiceCSharp\BaseServiceCSharp\BaseServiceCSharp\obj\Debug\BaseServiceCSharp.csproj.CoreCompileInputs.cache
+C:\geiewin\SubProjetos\Curso\Git\BaseServiceCSharp\BaseServiceCSharp\BaseServiceCSharp\bin\Debug\BaseServiceCSharp.exe.config
+C:\geiewin\SubProjetos\Curso\Git\BaseServiceCSharp\BaseServiceCSharp\BaseServiceCSharp\bin\Debug\BaseServiceCSharp.exe
+C:\geiewin\SubProjetos\Curso\Git\BaseServiceCSharp\BaseServiceCSharp\BaseServiceCSharp\bin\Debug\BaseServiceCSharp.pdb
+C:\geiewin\SubProjetos\Curso\Git\BaseServiceCSharp\BaseServiceCSharp\BaseServiceCSharp\obj\Debug\BaseServiceCSharp.exe
+C:\geiewin\SubProjetos\Curso\Git\BaseServiceCSharp\BaseServiceCSharp\BaseServiceCSharp\obj\Debug\BaseServiceCSharp.pdb
